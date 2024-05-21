@@ -2,7 +2,7 @@
 
 My publication strategy focuses on quality rather than quantity. I thus encourage you to judge my publications by their content rather than their numbers.
 ​
-## Peer-reviewed papers
+## Peer-reviewed papers  
 ​
 
 ​- González-Forero M. Evo-devo dynamics of hominin brain size. In press. Nature Human Behaviour. Preprint.  
