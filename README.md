@@ -16,4 +16,4 @@ Email: Mauricio.GonzalezForero [at] gmail.com
 [Research gate](https://www.researchgate.net/profile/Mauricio-Gonzalez-Forero)  
 [LinkedIn](https://www.linkedin.com/in/mauricio-gonzalez-forero/)
 
-![alt text](https://github.com/mauriciogforero/mauriciogforero.github.io/blob/main/Gonzalez-Forero-2023.jpeg | width=100)
+<img src="[https://github.com/favicon.ico](https://github.com/mauriciogforero/mauriciogforero.github.io/blob/main/Gonzalez-Forero-2023.jpeg)" width="48">
