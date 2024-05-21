@@ -1,6 +1,6 @@
 # Mauricio González-Forero
 
-## [Home](https://mauriciogforero.github.io) ## Research ## Publications ## CV ## Funding
+## [Home](https://mauriciogforero.github.io) / ## [Research](https://mauriciogforero.github.io/research) / ## [Publications](https://mauriciogforero.github.io/publications) / ## [CV](https://mauriciogforero.github.io/cv) / ## [Funding](https://mauriciogforero.github.io/funding)
 
 
 Welcome. I am an evolutionary biologist working at the interface of biology, mathematics, and anthropology. 
