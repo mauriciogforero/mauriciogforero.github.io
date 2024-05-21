@@ -10,8 +10,8 @@ If you like any of what you see in these pages and would like to collaborate in 
 
 Email: Mauricio.GonzalezForero [at] gmail.com
 
-Google scholar
-Orcid
-Mastodon
-Research gate
-LinkedIn
+[Google scholar](https://scholar.google.com/citations?authuser=1&user=WIXuy2kAAAAJ)
+[Orcid](https://orcid.org/0000-0003-1015-3089)
+[Mastodon](https://fediscience.org/deck/@MauricioGForero)
+[Research gate](https://www.researchgate.net/profile/Mauricio-Gonzalez-Forero)
+[LinkedIn](https://www.linkedin.com/in/mauricio-gonzalez-forero/)
