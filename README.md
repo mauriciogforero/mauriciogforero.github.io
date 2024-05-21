@@ -1,5 +1,8 @@
 # Mauricio González-Forero
 
+## [Home](https://mauriciogforero.github.io) ## Research ## Publications ## CV ## Funding
+
+
 Welcome. I am an evolutionary biologist working at the interface of biology, mathematics, and anthropology. 
 
 I use mathematical modelling to address questions including why the human brain evolved, how development affects evolution, why major evolutionary transitions occurred, and what is a species.
