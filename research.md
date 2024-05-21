@@ -1,3 +1,5 @@
+## [Home](https://mauriciogforero.github.io) / [Research](https://mauriciogforero.github.io/research) / [Publications](https://mauriciogforero.github.io/publications) / [CV](https://mauriciogforero.github.io/cv) / [Funding](https://mauriciogforero.github.io/funding)
+
 # Human brain evolution
 
 Brains have evolved into a stunning diversity across the animal kingdom giving rise to an even more stunning diversity in behavior. What drives brain evolution? We developed a mathematical model to help address this question (González-Forero, Faulwasser, and Lehmann, 2017).
