@@ -37,6 +37,14 @@ González-Forero M and Gavrilets S. 2013. Evolution of manipulated behavior. *A
 *Equal contribution.  
 †Contains significant supplementary information.
 
-## Peer-reviewed papers  
+## Non-peer reviewed publications
+
+González-Forero M. (2018) The human brain from ecology and seemingly culture. Behind the paper blog
+post at *Nature Ecology and Evolution Community*. [Link](https://communities.springernature.com/posts/the-human-brain-from-ecology-and-seemingly-culture).  
+
+
+González-Forero M. (2018) Why do humans have such large brains? Our study suggests ecology was the
+driving force. *The Conversation*. [Link](https://theconversation.com/why-do-humans-have-such-large-brains-our-study-suggests-ecology-was-the-driving-force-96873)
+
 ​
 
