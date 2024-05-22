@@ -1,7 +1,10 @@
 ## [Home](https://mauriciogforero.github.io) / [Research](https://mauriciogforero.github.io/research) / [Publications](https://mauriciogforero.github.io/publications) / [CV](https://mauriciogforero.github.io/cv) / [Funding](https://mauriciogforero.github.io/funding)
 
 
-2018-2024  
+2024 (Mar)-present  
+Unemployed
+
+2018-2024 (Feb)  
 Research fellow (i.e., postdoc) in the group of Andy Gardner  
 School of Biology.  
 University of St Andrews, UK.  
