@@ -16,23 +16,27 @@ González-Forero M. How development affects evolution. 2023. *Evolution*. 77, 56
 †González-Forero M* and Peña J*. 2021. Eusociality through conflict dissolution. *Proc. R. Soc. B*. 288, 20210386. [Link to journal](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0386) (open access).  
 
 ​
-González-Forero M and Gardner A. 2018. Inference of ecological and social drivers of human brain-size evolution. *Nature*. 557, 554-557. [PDF](https://rdcu.be/O1Vc), SI. Accompanying commentary. Behind the paper. A distilled version of the paper.  
+González-Forero M and Gardner A. 2018. Inference of ecological and social drivers of human brain-size evolution. *Nature*. 557, 554-557. [PDF](https://rdcu.be/O1Vc), [SI](Nature18SI.pdf). [News & Views](McElreathNV.pdf).
 
 ​
 González-Forero M, Faulwasser T, and Lehmann L. 2017. A model for brain life history evolution. *PLoS Computational Biology*. 13, e1005380. [Link to journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005380) (open access).  
 
 ​
-González-Forero M. 2015. Stable eusociality via maternal manipulation when resistance is costless. *Journal of Evolutionary Biology*. 28, 2208-2223. PDF.  
+González-Forero M. 2015. Stable eusociality via maternal manipulation when resistance is costless. *Journal of Evolutionary Biology*. 28, 2208-2223. [PDF](FullJEB15.pdf).  
 
 ​
-González-Forero M. 2014. An evolutionary resolution of manipulation conflict. *Evolution* 68, 2038-2051. PDF.  
+González-Forero M. 2014. An evolutionary resolution of manipulation conflict. *Evolution* 68, 2038-2051. [PDF](FullEvolution14.pdf).  
 
 ​
-González-Forero M and Gavrilets S. 2013. Evolution of manipulated behavior. *American Naturalist*. 182, 439-451. PDF.  
+González-Forero M and Gavrilets S. 2013. Evolution of manipulated behavior. *American Naturalist*. 182, 439-451. [PDF](AmNat13.pdf).  
 
 ​
-†González-Forero M. 2009. Removing ambiguity from the biological species concept. *Journal of Theoretical Biology*. 256, 76-80. PDF.  
+†González-Forero M. 2009. Removing ambiguity from the biological species concept. *Journal of Theoretical Biology*. 256, 76-80. [PDF](FullJTB09.pdf).  
 
 ​
 *Equal contribution.  
 †Contains significant supplementary information.
+
+## Peer-reviewed papers  
+​
+
