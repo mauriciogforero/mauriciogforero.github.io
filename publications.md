@@ -16,7 +16,7 @@ González-Forero M. How development affects evolution. 2023. Evolution. 77, 562-
 †González-Forero M* and Peña J*. 2021. Eusociality through conflict dissolution. Proc. R. Soc. B. 288, 20210386. [Link to journal](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0386) (open access).  
 
 ​
-González-Forero M and Gardner A. 2018. Inference of ecological and social drivers of human brain-size evolution. Nature. 557, 554-557. PDF, SI. Accompanying commentary. Behind the paper. A distilled version of the paper.  
+González-Forero M and Gardner A. 2018. Inference of ecological and social drivers of human brain-size evolution. Nature. 557, 554-557. [PDF](https://rdcu.be/O1Vc), SI. Accompanying commentary. Behind the paper. A distilled version of the paper.  
 
 ​
 González-Forero M, Faulwasser T, and Lehmann L. 2017. A model for brain life history evolution. PLoS Computational Biology. 13, e1005380. [Link to journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005380) (open access).  
