@@ -17,5 +17,5 @@ Email: Mauricio.GonzalezForero [at] gmail.com
 [Orcid](https://orcid.org/0000-0003-1015-3089)  
 [Mastodon](https://fediscience.org/deck/@MauricioGForero)  
 [Research gate](https://www.researchgate.net/profile/Mauricio-Gonzalez-Forero)  
-[LinkedIn](https://www.linkedin.com/in/mauricio-gonzalez-forero/)
+[LinkedIn](https://www.linkedin.com/in/mauricio-gonzalez-forero/)  
 [Bluesky](https://bsky.app/profile/mauriciogforero.bsky.social)
