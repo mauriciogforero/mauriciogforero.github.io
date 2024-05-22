@@ -4,7 +4,7 @@
 
 Brains have evolved into a stunning diversity across the animal kingdom giving rise to an even more stunning diversity in behavior. What drives brain evolution? We developed a mathematical model to help address this question ([González-Forero, Faulwasser, and Lehmann, 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005380)).
 ​
-Using this model, we have found that cognitive ability and brain mass can be mechanistically related by a simple equation. Extending this model to social interactions, we have also found causal, computational evidence suggesting that human brain expansion may have been driven by ecological and cultural factors, rather than social factors such as cooperation and competition, contrasting with dominant hypotheses (González-Forero and Gardner, 2018).
+Using this model, we have found that cognitive ability and brain mass can be mechanistically related by a simple equation. Extending this model to social interactions, we have also found causal, computational evidence suggesting that human brain expansion may have been driven by ecological and cultural factors, rather than social factors such as cooperation and competition, contrasting with dominant hypotheses ([González-Forero and Gardner, 2018](https://rdcu.be/O1Vc)).
 ​
 In a further extension of this work modelling the developmental and evolutionary (evo-devo) dynamics of hominin brain size, I have found that, counterintuitively, the sharp expansion in brain size in the human lineage may have been caused by constraints rather than selection ([González-Forero, in press](https://www.biorxiv.org/content/10.1101/2023.03.20.533421v2)).
 
