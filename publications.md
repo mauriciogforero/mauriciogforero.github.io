@@ -4,7 +4,7 @@ My publication strategy focuses on quality rather than quantity. I thus encourag
 ​
 ## Peer-reviewed papers  
 ​
-González-Forero M. Evo-devo dynamics of hominin brain size. In press. *Nature Human Behaviour*. [Preprint](https://www.biorxiv.org/content/10.1101/2023.03.20.533421v3).  
+González-Forero M. Evo-devo dynamics of hominin brain size. 2024. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-024-01887-8. [Link to journal](https://www.nature.com/articles/s41562-024-01887-8) (open access).  
 
 ​
 †González-Forero M. 2024. A mathematical framework for evo-devo dynamics. *Theoretical Population Biology*. 155, 24-50. [Link to journal](https://www.sciencedirect.com/science/article/pii/S0040580923000758) (open access).  
