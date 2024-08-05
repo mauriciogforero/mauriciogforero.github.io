@@ -7,8 +7,6 @@ I use mathematical modelling to address questions including why the human brain 
 ​
 As part of this work, I have developed mathematical tools that integrate development and evolution. These tools have produced general formulas for computing how a system responds to perturbation, how to translate an understanding of development into an understanding of evolution, and how to model the development and evolution of human brain size and cognitive ability.
 ​
-If you like any of what you see in these pages and would like to collaborate in any capacity, do let me know.
-
 Email: Mauricio.GonzalezForero [at] gmail.com
 
 [Google scholar](https://scholar.google.com/citations?authuser=1&user=WIXuy2kAAAAJ)  
