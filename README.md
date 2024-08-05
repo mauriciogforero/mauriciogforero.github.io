@@ -19,3 +19,7 @@ Email: Mauricio.GonzalezForero [at] gmail.com
 [Bluesky](https://bsky.app/profile/mauriciogforero.bsky.social)
 
 <img src="docs/assets/images/Gonzalez-Forero-2023.jpeg" alt="photo of Mauricio" width="200"/>
+
+Here is an overview of my research, given as a virtual talk at the 2024 Evolution Conference:
+
+[![Research overview in 15 min talk](https://img.youtube.com/vi/lXyhTDWSVfg&list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&index=157&t=3403s/0.jpg)](https://www.youtube.com/watch?v=lXyhTDWSVfg&list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&index=157&t=3403s)
