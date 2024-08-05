@@ -8,13 +8,13 @@ Riffe T, Villavicencio F and González-Forero M. Sensitivity and decomposition o
 ​
 ## Peer-reviewed papers  
 ​
-González-Forero M. Evo-devo dynamics of hominin brain size. 2024. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-024-01887-8. [Link to journal](https://www.nature.com/articles/s41562-024-01887-8) (open access).  
+González-Forero M. 2024. Evo-devo dynamics of hominin brain size. *Nature Human Behaviour*. 8, 1321–1333. [Link to journal](https://www.nature.com/articles/s41562-024-01887-8) (open access).  
 
 ​
 †González-Forero M. 2024. A mathematical framework for evo-devo dynamics. *Theoretical Population Biology*. 155, 24-50. [Link to journal](https://www.sciencedirect.com/science/article/pii/S0040580923000758) (open access).  
 
 ​
-González-Forero M. How development affects evolution. 2023. *Evolution*. 77, 562-579. [Link to journal](https://academic.oup.com/evolut/article/77/2/562/6955321) (open access).  
+González-Forero M. 2023. How development affects evolution. *Evolution*. 77, 562-579. [Link to journal](https://academic.oup.com/evolut/article/77/2/562/6955321) (open access).  
 
 ​
 †González-Forero M* and Peña J*. 2021. Eusociality through conflict dissolution. *Proc. R. Soc. B*. 288, 20210386. [Link to journal](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0386) (open access).  
@@ -43,11 +43,11 @@ González-Forero M and Gavrilets S. 2013. Evolution of manipulated behavior. *A
 
 ## Non-peer reviewed publications
 
-González-Forero M. (2018) The human brain from ecology and seemingly culture. Behind the paper blog
+González-Forero M. 2018. The human brain from ecology and seemingly culture. Behind the paper blog
 post at *Nature Ecology and Evolution Community*. [Link](https://communities.springernature.com/posts/the-human-brain-from-ecology-and-seemingly-culture).  
 
 
-González-Forero M. (2018) Why do humans have such large brains? Our study suggests ecology was the
+González-Forero M. 2018. Why do humans have such large brains? Our study suggests ecology was the
 driving force. *The Conversation*. [Link](https://theconversation.com/why-do-humans-have-such-large-brains-our-study-suggests-ecology-was-the-driving-force-96873)
 
 ​
