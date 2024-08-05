@@ -30,6 +30,10 @@ In major evolutionary transitions, groups of individuals become higher level ind
 ​
 We have developed mathematical models to study a classic hypothesis that posits that one such major transition, i.e., eusociality, arose from ancestral maternal manipulation. The hypothesis suggests that workers in eusocial organisms evolved because mothers manipulate their offspring to become helpers. Although this hypothesis attracted interest in 1970s, evidence has since been interpreted as rejecting it because it was thought that manipulation would lead offspring to resist whereas eusocial offspring seem to help voluntarily. We have found that manipulation may evolve while resistance fails to evolve for various reasons, so eusociality can evolve from ancestral manipulation yielding voluntarily helping offspring, consistently with various patterns observed in eusocial taxa (e.g., [González-Forero and Peña, 2021](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0386)).
 
+<img src="docs/assets/images/MaternalManipulationThumbnail.png" alt="Image describing conflict dissolution" width="300"/> 
+
+The above image (from [González-Forero, 2014](https://onlinelibrary.wiley.com/doi/10.1111/jeb.12744)) shows conflict dissolution, where resistance to maternal manipulation is first selected for, but this triggers the evolution of other traits, which increases the benefit of helping so that resistance becomes selected against and disappears.
+
 # Species problem
 
 Species are key units for evolutionary inference and conservation policies, but they are infamously difficult to define. I developed a mathematical formalization of the biological species concept and explored its consequences.
