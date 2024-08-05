@@ -39,3 +39,9 @@ The above image (from [González-Forero, 2014](https://onlinelibrary.wiley.com/d
 Species are key units for evolutionary inference and conservation policies, but they are infamously difficult to define. I developed a mathematical formalization of the biological species concept and explored its consequences.
 ​
 During my undergraduate thesis, I found that one out of four mathematical interpretations of this concept overcomes various difficulties of the verbal concept, but in doing so populations can belong to multiple species ([González-Forero, 2009](FullJTB09.pdf)).
+
+<img src="docs/assets/images/OverlappingSpeciesThumbnail.png" alt="Image describing overlapping species" width="400"/> 
+
+The above image (from [González-Forero, 2009](https://www.sciencedirect.com/science/article/abs/pii/S002251930800489X)) illustrates two overlapping species, where each square is a population and two populations with a common color are reproductively compatible.
+
+
