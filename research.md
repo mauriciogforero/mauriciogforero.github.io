@@ -20,6 +20,10 @@ I formulated a mathematical framework that integrates evolutionary and developme
 ​
 An important illustration of this result is that changing development alone (i.e., the path) without changing selection (i.e., the landscape) can lead to the evolution of the massive human brain size from australopithecine ancestors ([González-Forero, 2024b](https://www.nature.com/articles/s41562-024-01887-8)).
 
+<img src="docs/assets/images/Evolution2023Thumbnail.png" alt="Image describing how development affects evolution" width="600"/> 
+
+The above image illustrates how development affects evolution. The left panel describes classic theory of phenotypic evolution by natural selection according to the Lande equation, where traits evolve up the fitness landscape and reach a local fitness peak; in this theory, development transiently diverts evolution by generating genetic covariation. The right pannel shows the new theory I have put together, where to describe phenotypic evolution it is necessary to describe the evolution of the underlying genotype. The genotype and phenotype are related by development, and this relationship is given by the indicated path. Consequently, there is genetic variation exclusively along that path, so evolution stops at peaks of the path rather than of the landscape. This entails that development has major evolutionary effects.
+
 # Social evolution
 
 In major evolutionary transitions, groups of individuals become higher level individuals, which has had major effects on life on earth. What causes such major transitions?
