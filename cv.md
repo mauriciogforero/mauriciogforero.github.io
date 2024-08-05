@@ -2,7 +2,7 @@
 
 
 
-2018-2024  
+2018- Feb 2024  
 Research fellow (i.e., postdoc) in the group of Andy Gardner  
 School of Biology.  
 University of St Andrews, UK.  
