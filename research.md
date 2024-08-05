@@ -8,7 +8,7 @@ Using this model, we have found that cognitive ability and brain mass can be me
 ​
 In a further extension of this work modelling the developmental and evolutionary (evo-devo) dynamics of hominin brain size, I have found that, counterintuitively, the sharp expansion in brain size in the human lineage may have been caused by constraints rather than selection ([González-Forero, 2024b](https://www.nature.com/articles/s41562-024-01887-8)).
 
-<img src="docs/assets/images/SVideoShort.gif" loop=infinite alt="Video showing the evolutionary and developmental dynamics of the human brain as predicted by the model" width="600"/> 
+<img src="docs/assets/images/SVideoShortInfiniteLoop.gif" alt="Video showing the evolutionary and developmental dynamics of the human brain as predicted by the model" width="600"/> 
 
 The video above shows the evolutionary and developmental dynamics of the human brain as predicted by the model. The video shows the evolution of adult brain and body sizes from australopithecine to sapiens scales, the evolution of an adolescencent growth spurt, the evolution of a long childhood period, and the evolution of a doubling in adult skill level. The video is taken from [González-Forero, 2024b](https://www.nature.com/articles/s41562-024-01887-8).
 
