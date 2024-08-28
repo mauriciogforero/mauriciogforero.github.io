@@ -4,7 +4,7 @@ My publication strategy focuses on quality rather than quantity. I thus encourag
 
 ## Preprints
 
-González-Forero M. and Gómez-Robles A. Why did the human brain size evolve? A way forward. https://doi.org/10.32942/X2T62W
+González-Forero M and Gómez-Robles A. Why did the human brain size evolve? A way forward. https://doi.org/10.32942/X2T62W
 
 Riffe T, Villavicencio F and González-Forero M. Sensitivity and decomposition of multistate healthy life expectancy. https://dx.doi.org/10.4054/MPIDR-WP-2024-014
 ​
