@@ -21,5 +21,5 @@ Email: Mauricio.GonzalezForero [at] gmail.com
 Here is a brief overview of my research, given as a virtual talk at the 2024 Evolution Conference:
 
 <a href="https://www.youtube.com/watch?v=3nbhqRTkpEk
-" target="_blank"><img src="docs/assets/images/Evolution2024VirtualTalkThumbnail.png" 
+" target="_blank"><img src="docs/assets/images/Evolution2024VirtualTalkThumbnail2.png" 
 alt="Research overview in 15 min talk" width="600" border="10" /></a>
