@@ -1,6 +1,17 @@
 ## [Home](https://mauriciogforero.github.io) / [Research](https://mauriciogforero.github.io/research) / [Publications](https://mauriciogforero.github.io/publications) / [CV](https://mauriciogforero.github.io/cv) / [Funding](https://mauriciogforero.github.io/funding)
 
 
+<p align="center", style="font-size:160%;">
+  "There is nothing more practical than a good theory".
+</p>
+  
+<p align="center">
+  Business man quoted by K. Lewin (1943). Psychology and the process of group living. J. Social Psych. 17, 113-131.  
+</p>
+
+<br>
+<br>
+
 Welcome. I am an evolutionary biologist working at the interface of biology, mathematics, and anthropology. 
 
 I use mathematical modelling to address questions including why the human brain evolved, how development affects evolution, why major evolutionary transitions occurred, and what is a species. 
@@ -15,11 +26,6 @@ Email: Mauricio.GonzalezForero [at] gmail.com
 [Research gate](https://www.researchgate.net/profile/Mauricio-Gonzalez-Forero)  
 [LinkedIn](https://www.linkedin.com/in/mauricio-gonzalez-forero/)  
 [Bluesky](https://bsky.app/profile/mauriciogforero.bsky.social)  
-
-
-"There is nothing more practical than a good theory".  
-Lewin, K. 1943. Psychology and the process of group living. *J. Social Psych*. 17, 113-131.  
-
 
 
 <img src="docs/assets/images/Gonzalez-Forero-2023.jpeg" alt="photo of Mauricio" width="200"/>
