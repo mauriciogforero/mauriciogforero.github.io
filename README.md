@@ -14,7 +14,13 @@ Email: Mauricio.GonzalezForero [at] gmail.com
 [Mastodon](https://fediscience.org/deck/@MauricioGForero)  
 [Research gate](https://www.researchgate.net/profile/Mauricio-Gonzalez-Forero)  
 [LinkedIn](https://www.linkedin.com/in/mauricio-gonzalez-forero/)  
-[Bluesky](https://bsky.app/profile/mauriciogforero.bsky.social)
+[Bluesky](https://bsky.app/profile/mauriciogforero.bsky.social)  
+
+
+"There is nothing more practical than a good theory".  
+Lewin, K. 1943. Psychology and the process of group living. *J. Social Psych*. 17, 113-131.  
+
+
 
 <img src="docs/assets/images/Gonzalez-Forero-2023.jpeg" alt="photo of Mauricio" width="200"/>
 
