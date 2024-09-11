@@ -1,6 +1,6 @@
 ## [Home](https://mauriciogforero.github.io) / [Research](https://mauriciogforero.github.io/research) / [Publications](https://mauriciogforero.github.io/publications) / [CV](https://mauriciogforero.github.io/cv) / [Funding](https://mauriciogforero.github.io/funding)
 
-My publication strategy focuses on quality rather than quantity. I thus encourage you to judge my publications by their content rather than their numbers.
+My publication strategy focuses on quality rather than quantity. I thus encourage judgement of my publications by their content rather than their numbers.
 
 ## Preprints
 
