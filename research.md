@@ -42,6 +42,6 @@ During my undergraduate thesis, I found that one out of four mathematical interp
 
 <img src="docs/assets/images/OverlappingSpeciesThumbnail.png" alt="Image describing overlapping species" width="400"/> 
 
-The above image (from [González-Forero, 2009](https://www.sciencedirect.com/science/article/abs/pii/S002251930800489X)) illustrates two overlapping species, where each square is a population and two populations with a common color are reproductively compatible.
+The above image (from [González-Forero, 2009](https://www.sciencedirect.com/science/article/abs/pii/S002251930800489X)) illustrates overlapping species, where each square is a population and two populations with a common color are reproductively compatible.
 
 
