@@ -1,8 +1,8 @@
 ## [Home](https://mauriciogforero.github.io) / [Research](https://mauriciogforero.github.io/research) / [Publications](https://mauriciogforero.github.io/publications) / [CV](https://mauriciogforero.github.io/cv) / [Funding](https://mauriciogforero.github.io/funding)
 
 
-<p align="center", style="font-size:160%;">
-  "There is nothing more practical than a good theory".
+<p align="center">
+  "There is nothing more practical than a good theory"
 </p>
   
 <p align="center">
