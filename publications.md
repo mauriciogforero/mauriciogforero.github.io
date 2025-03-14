@@ -4,12 +4,12 @@ My publication strategy focuses on quality rather than quantity. I thus encourag
 
 ## Preprints
 
-González-Forero M and Gómez-Robles A. Why did the human brain size evolve? A way forward. https://doi.org/10.32942/X2T62W
-
 Riffe T, Villavicencio F and González-Forero M. Sensitivity and decomposition of multistate healthy life expectancy. https://dx.doi.org/10.4054/MPIDR-WP-2024-014
 ​
 ## Peer-reviewed papers  
 ​
+González-Forero M and Gómez-Robles A. Why did the human brain size evolve? A way forward. In press at *Phil. Trans. B*. Preprint: https://doi.org/10.32942/X2T62W
+
 González-Forero M. 2024. Evo-devo dynamics of hominin brain size. *Nature Human Behaviour*. 8, 1321–1333. [Link to journal](https://www.nature.com/articles/s41562-024-01887-8) (open access).  
 
 ​
