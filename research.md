@@ -6,7 +6,7 @@ Brains have evolved into a stunning diversity across the animal kingdom giving r
 ​
 Using this model, we have found that cognitive ability and brain mass can be mechanistically related by a simple equation. Extending this model to social interactions, we have also found causal, computational evidence suggesting that human brain expansion may have been driven by ecological and cultural factors, rather than social factors such as cooperation and competition, contrasting with dominant hypotheses ([González-Forero and Gardner, 2018](https://rdcu.be/O1Vc)).
 ​
-In a further extension of this work modelling the developmental and evolutionary (evo-devo) dynamics of hominin brain size, I have found that, counterintuitively, the sharp expansion in brain size in the human lineage may have been a by-product of selection for ovarian follicles ([González-Forero, 2024b](https://www.nature.com/articles/s41562-024-01887-8)).
+In a further extension of this work modelling the developmental and evolutionary (evo-devo) dynamics of hominin brain size, I have found that, counterintuitively, the sharp expansion in brain size in the human lineage may have been a by-product of selection for ovarian follicles, where the role ov ecology and culture is to generate a genetic correlation between follicles and brain size, a correlation that causes human brain expansion ([González-Forero, 2024b](https://www.nature.com/articles/s41562-024-01887-8)).
 
 <img src="docs/assets/images/SVideoShortInfiniteLoop.gif" alt="Video showing the evolutionary and developmental dynamics of the human brain as predicted by the model" width="600"/> 
 
