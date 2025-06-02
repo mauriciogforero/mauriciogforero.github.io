@@ -7,7 +7,11 @@ I use mathematical modelling to address biological questions including why the h
 
 As part of this work, I have developed mathematical tools that integrate development and evolution. These tools have produced general formulas for computing how a system responds to perturbation, how to translate an understanding of development into an understanding of evolution, and how to model the development and evolution of human brain size and skill level. 
 
-Email: Mauricio.GonzalezForero [at] gmail.com 
+Email: Mauricio.Gonzalez-Forero [at] kli.ac.at\
+Senior Resident Fellow\
+[Konrad Lorenz Institute for Evolution and Cognition Research (KLI)](https://www.kli.ac.at/content/en/home)\
+Martinstraße 12\
+A-3400, Klosterneuburg, Austria
 
 [Google scholar](https://scholar.google.com/citations?authuser=1&user=WIXuy2kAAAAJ)  
 [Orcid](https://orcid.org/0000-0003-1015-3089)  
