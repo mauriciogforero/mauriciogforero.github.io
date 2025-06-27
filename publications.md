@@ -10,7 +10,7 @@ Riffe T, Villavicencio F and González-Forero M. Sensitivity and decomposition o
 ​
 ## Peer-reviewed papers  
 ​
-González-Forero M and Gómez-Robles A. Why did the human brain size evolve? A way forward. In press at *Phil. Trans. B*. Preprint: https://doi.org/10.32942/X2T62W
+González-Forero M and Gómez-Robles A. 2025. Why did the human brain size evolve? A way forward. *Phil. Trans. R. Soc. B* 380, 20240114. [Link to journal](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0114) (open access).
 
 González-Forero M. 2024. Evo-devo dynamics of hominin brain size. *Nature Human Behaviour*. 8, 1321–1333. [Link to journal](https://www.nature.com/articles/s41562-024-01887-8) (open access).  
 
