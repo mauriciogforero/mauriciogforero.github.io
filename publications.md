@@ -4,7 +4,9 @@ My publication strategy focuses on quality rather than quantity. I thus encourag
 
 ## Preprints
 
-González-Forero M and Gómez-Robles A. Evidence that human skill level is more reactive to developmental history than to genes or environment. In review. Preprint: [https://www.biorxiv.org/content/10.1101/2025.03.17.643651](https://www.biorxiv.org/content/10.1101/2025.03.17.643651).
+González-Forero M. A mathematical synthesis of genetics, development, and evolution. Submitted. Preprint: [https://www.biorxiv.org/content/10.64898/2026.02.25.707927](https://www.biorxiv.org/content/10.64898/2026.02.25.707927).
+
+González-Forero M and Gómez-Robles A. Evidence that human skill level is more reactive to developmental history than to genes or environment. In revision. Preprint: [https://www.biorxiv.org/content/10.1101/2025.03.17.643651](https://www.biorxiv.org/content/10.1101/2025.03.17.643651).
 
 Riffe T, Villavicencio F and González-Forero M. Sensitivity and decomposition of multistate healthy life expectancy. In revision. [https://dx.doi.org/10.4054/MPIDR-WP-2024-014](https://dx.doi.org/10.4054/MPIDR-WP-2024-014).
 ​
