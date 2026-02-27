@@ -49,6 +49,8 @@ González-Forero M and Gavrilets S. 2013. Evolution of manipulated behavior. *A
 
 ## Non-peer reviewed publications
 
+2026. Contributed to chapters "Growing brains" and "From nerve cells to conciousness" in popular science book "Humans": [https://geni.us/Humans-DK](https://geni.us/Humans-DK)
+
 González-Forero M. 2018. The human brain from ecology and seemingly culture. Behind the paper blog
 post at *Nature Ecology and Evolution Community*. [Link](https://communities.springernature.com/posts/the-human-brain-from-ecology-and-seemingly-culture).  
 
