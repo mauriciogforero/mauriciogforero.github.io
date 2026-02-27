@@ -12,7 +12,8 @@ Riffe T, Villavicencio F and González-Forero M. Sensitivity and decomposition o
 ​
 ## Peer-reviewed papers  
 ​
-González-Forero M and Gómez-Robles A. 2025. Why did the human brain size evolve? A way forward. *Phil. Trans. R. Soc. B* 380, 20240114. [Link to journal](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0114) (open access).
+González-Forero M and Gómez-Robles A. 2025. Why did the human brain size evolve? A way forward. *Phil. Trans. R. Soc. B* 380, 20240114. [Link to journal](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0114) (open access).  
+
 
 González-Forero M. 2024. Evo-devo dynamics of hominin brain size. *Nature Human Behaviour*. 8, 1321–1333. [Link to journal](https://www.nature.com/articles/s41562-024-01887-8) (open access).  
 
@@ -49,7 +50,8 @@ González-Forero M and Gavrilets S. 2013. Evolution of manipulated behavior. *A
 
 ## Non-peer reviewed publications
 
-2026. Contributed to chapters "Growing brains" and "From nerve cells to conciousness" in popular science book "Humans": [https://geni.us/Humans-DK](https://geni.us/Humans-DK)
+One of many contributors, with Editor In Chief Prof Alice Roberts, in popular science book "Humans". 2026. I contributed to chapters "Growing brains" and "From nerve cells to conciousness": [https://geni.us/Humans-DK](https://geni.us/Humans-DK)  
+
 
 González-Forero M. 2018. The human brain from ecology and seemingly culture. Behind the paper blog
 post at *Nature Ecology and Evolution Community*. [Link](https://communities.springernature.com/posts/the-human-brain-from-ecology-and-seemingly-culture).  
