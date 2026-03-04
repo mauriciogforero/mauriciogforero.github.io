@@ -50,7 +50,7 @@ González-Forero M and Gavrilets S. 2013. Evolution of manipulated behavior. *A
 
 ## Non-peer reviewed publications
 
-One of many contributors, with Editor In Chief Prof Alice Roberts, in popular science book "Humans". 2026. I contributed to chapters "Growing brains" and "From nerve cells to conciousness": [https://geni.us/Humans-DK](https://geni.us/Humans-DK)  
+I am one of many contributors in the popular science book "Humans", with Editor In Chief Prof Alice Roberts. 2026. I contributed to chapters "Growing brains" and "From nerve cells to conciousness": [https://geni.us/Humans-DK](https://geni.us/Humans-DK).  
 
 
 González-Forero M. 2018. The human brain from ecology and seemingly culture. Behind the paper blog
