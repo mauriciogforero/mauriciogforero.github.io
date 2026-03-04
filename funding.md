@@ -8,6 +8,9 @@ I gratefully acknowledge funding from the following sources:
 
 My projects on integrating development and evolution have received funding from the School of Biology of the University of St Andrews, an ERC Consolidator Grant to Andy Gardner, a John Templeton Foundation grant to Kevin Lala and Tobias Uller, and from the Konrad Lorenz Institute for Evolution and Cognition Research.
 
+## Life expectancy
+
+My work on the sensitivity of healthy life expectancy has received funding from a Caixa Foundation grant to Tim Riffe.
 
 ## Brain evolution
 
