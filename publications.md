@@ -2,7 +2,7 @@
 
 ## Preprints
 
-González-Forero M. A mathematical synthesis of genetics, development, and evolution. In review. Preprint: [https://www.biorxiv.org/content/10.64898/2026.02.25.707927](https://www.biorxiv.org/content/10.64898/2026.02.25.707927).
+González-Forero M. A mathematical synthesis of genetics, development, and evolution. In revision. Preprint: [https://www.biorxiv.org/content/10.64898/2026.02.25.707927](https://www.biorxiv.org/content/10.64898/2026.02.25.707927).
 
 González-Forero M and Gómez-Robles A. Evidence that human skill level is more reactive to developmental history than to genes or environment. In revision. Preprint: [https://www.biorxiv.org/content/10.1101/2025.03.17.643651](https://www.biorxiv.org/content/10.1101/2025.03.17.643651).
 
