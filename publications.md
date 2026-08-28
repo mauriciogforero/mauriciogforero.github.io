@@ -1,7 +1,5 @@
 ## [Home](https://mauriciogforero.github.io) / [Research](https://mauriciogforero.github.io/research) / [Publications](https://mauriciogforero.github.io/publications) / [CV](https://mauriciogforero.github.io/cv) / [Funding](https://mauriciogforero.github.io/funding)
 
-My publication strategy focuses on quality rather than quantity. I thus encourage judgement of my publications by their content rather than their metrics.
-
 ## Preprints
 
 González-Forero M. A mathematical synthesis of genetics, development, and evolution. In review. Preprint: [https://www.biorxiv.org/content/10.64898/2026.02.25.707927](https://www.biorxiv.org/content/10.64898/2026.02.25.707927).
