@@ -43,4 +43,4 @@ University of Antioquia, Colombia
 
 
 
-[Full CV](Gonzalez-Forero-CV.pdf)
+[Full CV](Gonzalez-Forero-CV-public.pdf)
