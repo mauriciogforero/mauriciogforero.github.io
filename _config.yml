@@ -1,7 +1,41 @@
-remote_theme: pages-themes/cayman@v0.2.0
+title: Mauricio González-Forero
+description: Mathematical evolutionary biologist working on how development and evolution interact and why the human brain size evolved.
+url: https://mauriciogforero.github.io
+lang: en
+author: Mauricio González-Forero
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
 
-title: [Mauricio González-Forero's personal website]
+markdown: kramdown
 
-google_analytics: [G-72ZC87Y726]
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Navigation bar. "key" must match the "nav" value in each page's front matter.
+nav:
+  - title: Home
+    url: /
+    key: home
+  - title: Research
+    url: /research
+    key: research
+  - title: Publications
+    url: /publications
+    key: publications
+  - title: Teaching
+    url: /teaching
+    key: teaching
+  - title: CV
+    url: /cv
+    key: cv
+  - title: Funding
+    url: /funding
+    key: funding
+
+exclude:
+  - README.md
+  - scripts
