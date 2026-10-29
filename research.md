@@ -7,8 +7,7 @@ nav: research
 
 ## Current directions
 
-- **A mathematical synthesis of genetics, development, and evolution.** I am extending the evo-devo dynamics framework to include sexual reproduction and discrete genotypes ([preprint](https://doi.org/10.64898/2026.02.25.707927)).
-- **Simulation-based inference.** I am building inference tools that combine evo-devo dynamics with data to identify the causes of taxon-specific traits, starting with human brain size, and that others can apply to their own study organisms. The theory also predicts the effects of developmental interventions.
+I am extending the evo-devo dynamics framework into a mathematical synthesis of genetics, development, and evolution that includes sexual reproduction and discrete genotypes ([preprint](https://doi.org/10.64898/2026.02.25.707927)).
 
 ## Human brain evolution
 
@@ -38,7 +37,7 @@ An important illustration of this result is that changing development alone (the
 
 ## Sensitivity of dynamical systems
 
-To analyse evo-devo dynamics, I derived analytical formulas for how recurrence equations respond to perturbation, which are analytical versions of backpropagation, together with a gradient-ascent method for constrained dynamic optimisation ([González-Forero, 2024a](https://doi.org/10.1016/j.tpb.2023.11.003)). These formulas apply well beyond evolution. With collaborators, I have used them to compute how health interventions change healthy life expectancy ([Riffe, Villavicencio, and González-Forero, preprint](https://dx.doi.org/10.4054/MPIDR-WP-2024-014)) and to quantify mechanistically the effects of genes, environment, and development on human behaviour ([González-Forero and Gómez-Robles, preprint](https://doi.org/10.1101/2025.03.17.643651)).
+To analyse evo-devo dynamics, I derived analytical formulas for how recurrence equations respond to perturbation, which are analytical versions of backpropagation, together with a gradient-ascent method for constrained dynamic optimisation ([González-Forero, 2024a](https://doi.org/10.1016/j.tpb.2023.11.003)). These formulas apply well beyond evolution. With collaborators, I have used them to compute how health interventions change healthy life expectancy ([Riffe, Villavicencio, and González-Forero, preprint](https://dx.doi.org/10.4054/MPIDR-WP-2024-014)) and to quantify mechanistically the contribution of genes, environment, and development to differences in human behavioural traits ([González-Forero and Gómez-Robles, preprint](https://doi.org/10.1101/2025.03.17.643651)).
 
 ## Social evolution
 

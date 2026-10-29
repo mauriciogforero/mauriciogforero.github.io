@@ -8,7 +8,7 @@ nav: home
 I am a mathematical evolutionary biologist and Senior Postdoctoral Fellow at the [Konrad Lorenz Institute for Evolution and Cognition Research (KLI)](https://www.kli.ac.at/content/en/home) in Klosterneuburg, Austria. I work at the interface of biology, mathematics, and anthropology.
 {: .lead}
 
-I develop general mathematical theory that treats development and evolution together (evo-devo dynamics). Two questions drive my research: how development and evolution interact, and why the human brain size evolved. I am now building simulation-based inference tools that combine this theory with data, starting with human brain size, so that others can also apply it to their own study organisms.
+I develop general mathematical theory that treats development and evolution together (evo-devo dynamics). Two questions drive my research: how development and evolution interact, and why the human brain size evolved.
 
 Along the way, I have derived formulas for how a system responds to perturbation, and applied them to questions in human demography and behaviour. Earlier work addressed the evolution of eusociality and the definition of species. More on the [Research](research) page.
 
