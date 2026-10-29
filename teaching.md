@@ -39,5 +39,5 @@ nav: teaching
 
 <dl class="entries">
   <dt>2020</dt>
-  <dd>Co-organized, with Reyes Sanles-Falagan, a fellowship-writing workshop for early-career researchers in the School of Biology, University of St Andrews, with ten speakers and 26 participants.</dd>
+  <dd>Co-organised, with Reyes Sanles-Falagan, a fellowship-writing workshop for early-career researchers in the School of Biology, University of St Andrews, with ten speakers and 26 participants.</dd>
 </dl>

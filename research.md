@@ -38,7 +38,7 @@ An important illustration of this result is that changing development alone (the
 
 ## Sensitivity of dynamical systems
 
-To analyse evo-devo dynamics, I derived analytical formulas for how recurrence equations respond to perturbation, which are analytical versions of backpropagation, together with a gradient-ascent method for constrained dynamic optimization ([González-Forero, 2024a](https://doi.org/10.1016/j.tpb.2023.11.003)). These formulas apply well beyond evolution. With collaborators, I have used them to compute how health interventions change healthy life expectancy ([Riffe, Villavicencio, and González-Forero, preprint](https://dx.doi.org/10.4054/MPIDR-WP-2024-014)) and to quantify mechanistically the effects of genes, environment, and development on human behaviour ([González-Forero and Gómez-Robles, preprint](https://doi.org/10.1101/2025.03.17.643651)).
+To analyse evo-devo dynamics, I derived analytical formulas for how recurrence equations respond to perturbation, which are analytical versions of backpropagation, together with a gradient-ascent method for constrained dynamic optimisation ([González-Forero, 2024a](https://doi.org/10.1016/j.tpb.2023.11.003)). These formulas apply well beyond evolution. With collaborators, I have used them to compute how health interventions change healthy life expectancy ([Riffe, Villavicencio, and González-Forero, preprint](https://dx.doi.org/10.4054/MPIDR-WP-2024-014)) and to quantify mechanistically the effects of genes, environment, and development on human behaviour ([González-Forero and Gómez-Robles, preprint](https://doi.org/10.1101/2025.03.17.643651)).
 
 ## Social evolution
 
@@ -48,12 +48,12 @@ We developed mathematical models to study a classic hypothesis that posits that 
 
 <figure>
 <img src="docs/assets/images/MaternalManipulationThumbnail.png" alt="Diagram of conflict dissolution" width="320">
-<figcaption>Conflict dissolution: resistance to maternal manipulation is first selected for, but this triggers the evolution of other traits that increase the benefit of helping, so resistance becomes selected against and disappears. From <a href="https://doi.org/10.1111/jeb.12744">González-Forero, 2014</a>.</figcaption>
+<figcaption>Conflict dissolution: resistance to maternal manipulation is first selected for, but this triggers the evolution of other traits that increase the benefit of helping, so resistance becomes selected against and disappears. From <a href="https://doi.org/10.1111/jeb.12744">González-Forero, 2015</a>.</figcaption>
 </figure>
 
 ## What is a species?
 
-Species are key units for evolutionary inference and conservation policies, but they are infamously difficult to define. I developed a mathematical formalization of the biological species concept and explored its consequences.
+Species are key units for evolutionary inference and conservation policies, but they are infamously difficult to define. I developed a mathematical formalisation of the biological species concept and explored its consequences.
 
 During my undergraduate thesis, I found that one of four mathematical interpretations of this concept overcomes various difficulties of the verbal concept, but in doing so, populations can belong to multiple species ([González-Forero, 2009](FullJTB09.pdf)).
 
