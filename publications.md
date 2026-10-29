@@ -14,23 +14,23 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=WIXuy2kAA
 
 González-Forero M. A mathematical synthesis of genetics, development, and evolution. In revision. [Preprint](https://doi.org/10.64898/2026.02.25.707927).
 
-González-Forero M and Gómez-Robles A. Mechanistic quantification of the effects of genes, environment, and development on human behaviour. In revision. [Preprint](https://doi.org/10.1101/2025.03.17.643651).
+González-Forero M and Gómez-Robles A. Mechanistic quantification of the effects of genes, environment, and development on human behaviour. In revision. [Preprint](https://doi.org/10.1101/2025.03.17.643651), [Code](https://doi.org/10.5281/zenodo.23393134).
 
 Riffe T, Villavicencio F, and González-Forero M. Sensitivity and decomposition of multistate healthy life expectancy. In revision. [Preprint](https://dx.doi.org/10.4054/MPIDR-WP-2024-014).
 
 ## Peer-reviewed papers
 
-González-Forero M and Gómez-Robles A. 2025. Why did the human brain size evolve? A way forward. *Philosophical Transactions of the Royal Society B* 380, 20240114. [Journal](https://doi.org/10.1098/rstb.2024.0114) (open access).
+González-Forero M and Gómez-Robles A. 2025. Why did the human brain size evolve? A way forward. *Philosophical Transactions of the Royal Society B* 380, 20240114. [Journal](https://doi.org/10.1098/rstb.2024.0114) (open access), [Supplementary material](https://doi.org/10.6084/m9.figshare.c.7834282).
 
-González-Forero M. 2024. Evolutionary-developmental (evo-devo) dynamics of hominin brain size. *Nature Human Behaviour* 8, 1321–1333. [Journal](https://doi.org/10.1038/s41562-024-01887-8) (open access).
+González-Forero M. 2024. Evolutionary-developmental (evo-devo) dynamics of hominin brain size. *Nature Human Behaviour* 8, 1321–1333. [Journal](https://doi.org/10.1038/s41562-024-01887-8) (open access), [Code](https://doi.org/10.5281/zenodo.10887414).
 
-González-Forero M. 2024. A mathematical framework for evo-devo dynamics.† *Theoretical Population Biology* 155, 24–50. [Journal](https://doi.org/10.1016/j.tpb.2023.11.003) (open access).
+González-Forero M. 2024. A mathematical framework for evo-devo dynamics.† *Theoretical Population Biology* 155, 24–50. [Journal](https://doi.org/10.1016/j.tpb.2023.11.003) (open access). Code in the supplementary information.
 
-González-Forero M. 2023. How development affects evolution. *Evolution* 77, 562–579. [Journal](https://doi.org/10.1093/evolut/qpac003) (open access).
+González-Forero M. 2023. How development affects evolution. *Evolution* 77, 562–579. [Journal](https://doi.org/10.1093/evolut/qpac003) (open access), [Code](https://doi.org/10.5281/zenodo.7180175).
 
-González-Forero M\* and Peña J\*. 2021. Eusociality through conflict dissolution.† *Proceedings of the Royal Society B* 288, 20210386. [Journal](https://doi.org/10.1098/rspb.2021.0386) (open access).
+González-Forero M\* and Peña J\*. 2021. Eusociality through conflict dissolution.† *Proceedings of the Royal Society B* 288, 20210386. [Journal](https://doi.org/10.1098/rspb.2021.0386) (open access), [Code](https://github.com/jorgeapenas/conflictdissolution).
 
-González-Forero M and Gardner A. 2018. Inference of ecological and social drivers of human brain-size evolution. *Nature* 557, 554–557. [PDF](https://rdcu.be/O1Vc), [Supplementary information](Nature18SI.pdf), [News & Views](McElreathNV.pdf).
+González-Forero M and Gardner A. 2018. Inference of ecological and social drivers of human brain-size evolution. *Nature* 557, 554–557. [PDF](https://rdcu.be/O1Vc), [Supplementary information](Nature18SI.pdf), [News & Views](McElreathNV.pdf), [Code and data](https://doi.org/10.5281/zenodo.1197479), [Complete numerical solutions](https://doi.org/10.5281/zenodo.1217123) (200 GB).
 
 González-Forero M, Faulwasser T, and Lehmann L. 2017. A model for brain life history evolution. *PLoS Computational Biology* 13, e1005380. [Journal](https://doi.org/10.1371/journal.pcbi.1005380) (open access).
 
