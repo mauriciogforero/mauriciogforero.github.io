@@ -1,46 +1,34 @@
-## [Home](https://mauriciogforero.github.io) / [Research](https://mauriciogforero.github.io/research) / [Publications](https://mauriciogforero.github.io/publications) / [CV](https://mauriciogforero.github.io/cv) / [Funding](https://mauriciogforero.github.io/funding)
+---
+title: CV
+nav: cv
+---
 
+# CV
 
+<a class="button" href="Gonzalez-Forero-CV-public.pdf">Full CV (PDF)</a>
 
-Jun 2025-present\
-Senior Resident Fellow\
-Konrad Lorenz Institute for Evolution and Cognition Research\
-Klosterneuburg, Austria  
+## Positions
 
+<dl class="entries">
+  <dt>2025–present</dt>
+  <dd><strong>Senior Postdoctoral Fellow</strong><br>Konrad Lorenz Institute for Evolution and Cognition Research, Klosterneuburg, Austria</dd>
 
+  <dt>2018–2024</dt>
+  <dd><strong>Research Fellow</strong>, group of Andy Gardner<br>School of Biology, University of St Andrews, UK</dd>
 
-2018-Feb 2024  
-Research fellow (i.e., postdoc) in the group of Andy Gardner  
-School of Biology  
-University of St Andrews, UK  
+  <dt>2016–2018</dt>
+  <dd><strong>Marie Skłodowska-Curie Individual Fellow</strong>, group of Andy Gardner<br>School of Biology, University of St Andrews, UK</dd>
 
+  <dt>2013–2016</dt>
+  <dd><strong>Postdoctoral researcher</strong> with Laurent Lehmann<br>Department of Ecology and Evolution, University of Lausanne, Switzerland</dd>
+</dl>
 
+## Education
 
-2016-2018  
-Marie Curie fellow (IF) in the group of Andy Gardner  
-School of Biology  
-University of St Andrews, UK  
+<dl class="entries">
+  <dt>2007–2013</dt>
+  <dd><strong>PhD in Ecology and Evolutionary Biology</strong>, advisor Sergey Gavrilets<br>University of Tennessee, Knoxville, USA</dd>
 
-
-
-2013-2016  
-Postdoc with Laurent Lehmann  
-Department of Ecology and Evolution  
-University of Lausanne, Switzerland  
-
-
-
-2007-2013  
-PhD in Ecology and Evolutionary Biology with Sergey Gavrilets  
-University of Tennessee, Knoxville, USA  
-
-
-
-1999-2006  
-BSc in Biology  
-9 courses in Mathematics/Physics (equivalent to a minor in Mathematics)  
-University of Antioquia, Colombia  
-
-
-
-[Full CV](Gonzalez-Forero-CV-public.pdf)
+  <dt>1999–2006</dt>
+  <dd><strong>BSc in Biology</strong>, with the equivalent of a minor in Mathematics<br>University of Antioquia, Medellín, Colombia</dd>
+</dl>
